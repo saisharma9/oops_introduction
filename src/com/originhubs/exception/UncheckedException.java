@@ -27,7 +27,7 @@ try{
 }
 
 catch (NullPointerException e){
-    System.out.println("NullPointerException...........");
+    System.out.println("NullPointerException.");
 }
 
 //StirngIndexoutofbound
